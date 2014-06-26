@@ -1087,11 +1087,11 @@
 					</dict>
 				</array>
 				<key>customClass</key>
-				<string>contentNodeFollow</string>
+				<string></string>
 				<key>displayName</key>
 				<string>CCNode</string>
 				<key>memberVarAssignmentName</key>
-				<string></string>
+				<string>_contentNodeFollow</string>
 				<key>memberVarAssignmentType</key>
 				<integer>1</integer>
 				<key>properties</key>
